@@ -1,0 +1,30 @@
+{
+  "name": "week-5-jest-workshop-damla-demir",
+  "version": "1.0.0",
+  "description": "Trendyol-Front-End-Bootcamp Week 5 Jest Workshop Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test-watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trendyol-Front-End-Bootcamp/week-5-jest-workshop-damla-demir.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trendyol-Front-End-Bootcamp/week-5-jest-workshop-damla-demir/issues"
+  },
+  "homepage": "https://github.com/Trendyol-Front-End-Bootcamp/week-5-jest-workshop-damla-demir#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
